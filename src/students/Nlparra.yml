@@ -16,7 +16,7 @@ basic_info:
     
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
-      Trying to improve my skills as a developer to eventually be able to work for a company and in the future have my own company.
+      Highly skilled and results-oriented professional with solid experience in biomedical and nutraceutical industries. Strengths include the ability to develop strong relationships across cultures, the execution of training programs and to provide decisive team leadership in a fast-paced environment. 
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
@@ -24,9 +24,9 @@ basic_info:
 
     # Contact Information
     email: nlparra.dev@gmail.com
-    phone: 
-    website: 
-    linkedin: 
+    phone: (954) 309-1279
+    website: Nlparra.github.io
+    linkedin: linkedin.com/in/nelson-parra-ctbs-15701a62
     
     #
     # ******** IMPORTANT *******
@@ -55,80 +55,149 @@ basic_info:
 
       - item: Surfing
 
-# # Your previous education
-# education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       # optional
-#       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - degree: BSc in Applied Mathematics
-#       university: Bristol University
-#       # optional
-#       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-#       time: 2007 - 2011
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-# # Your previous job experiences or voluntier
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       # optional
-#       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       # optional
-#       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       # optional
-#       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-# # Your project portfolio
+# Your previous education
+education:
+    - degree: Full Stack Web Developer
+      university: 4Geeks Academy
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2020 - 2020
+      details: |
+        During this bootcamp I learned how to code using HTML, CSS, Javascript. I also learned how to use Bootstrap, Node Js and React to be able to built responsibe websites and applications.Also learnt python and ASQ to be able to built a back end for my front end applications to be able to communicate between both sides of the applications. 
+
+    - degree: Front End Web Developer
+      university: Wyncode Code Academy
+      # optional
+      university_logo: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F28195477%2F191233805318%2F1%2Foriginal.jpg?auto=format%2Ccompress&q=75&sharp=10&s=43dd549141a804b50587c6c17e8c69e1
+      time: 2019 - 2019
+      details: |
+        During this bootcamp I learned how to code using HTML, CSS, Javascript. I also learned how to use Bootstrap, Node Js and React to be able to built responsibe websites and applications.
+
+    - degree: CTBS Certification    
+      university: American Association of Tissue Banking 
+      # optional
+      university_logo: https://www.aatb.org/sites/default/files/logo-white.png
+      time: 2016  - present.
+      details: |
+        The certification is given after passing examination of all the regulations and standard of the american association of tissue banking from recovery, processing , technical review and distributation of human allografts. 
+
+      - degree: B.S Biological Science        
+      university: Florida Atlantic University 
+      # optional
+      university_logo: https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Florida_Atlantic_University_seal.svg/1200px-Florida_Atlantic_University_seal.svg.png
+
+      time: 2006 - 2012
+      details: |
+        Obtain the bachelor of sciences that covered a curriculum from biological sciences, chemistry , physics and advance topics of anatomy and physiology , immunology and biology of cancer. 
+
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: Donor Eligibility Supervisor    
+      time: 2019 - Present
+      company: Tissue Tech Inc - Doral, FL
+      # optional
+      company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHGOPcjmHSTS9b_hDK9BT207c0wbYBpLutg5XibFO0Q9JuoQe9
+
+      details: |
+        - Responsible of leading the donor eligiblity team to reduce backlog of the company raw materials.
+        - Responsible in closing the Donor Eligibility NCR.
+        - Lean out the donor eligibility process.
+        - In charge in providing metrics for the department to management in the company. 
+
+
+    - role: Quality Assurance Manager    
+      time: 2018 - 2019
+      company: Vivex Biomedical , Miami FL
+      # optional
+      company_logo: https://vivex.com/wp-content/uploads/2020/02/VIVEX_4C-1.png
+      details: |
+        - Responsible for oversight and work assignment over the final release team and donor eligibility team.
+        - Responsible in track and trend various data points for reporting metrics. 
+        - Responsible in reducing average time to release non-ME cases by 50% (from over 120 days to 65 days) 
+        - Responsible in decreasing donors that were aging over 90 days by 11 % (from 40% down to 29%) 
+        - Responsible in writing & investigating NCR,planned deviations , CAPA  & complaint that dealt within the quality team.
+        - Responsible in writing any deviation that will be needed for the quality assurance team.
+        - Responsible in writing standard operating procedures for the quality assurance team. 
+        - Able to continuously process improve both processes for the donor eligibility team and final release team.
+        - Responsible in improving or developing system for autopsy, pending items and donor that were currently pending.
+        - Responsible for the training of any upcoming reviewers for the department. 
+
+    - role: Quality Assurance Batch Record Supervisor    
+      time: 2016 - 2018
+      company: Vivex Biomedical , Miami FL
+      # optional
+      company_logo: https://vivex.com/wp-content/uploads/2020/02/VIVEX_4C-1.png
+      details: |
+        - Accountable in training the final release team in the latest revision of SOP and new processes in the company.
+        - Responsible in being able to lean and line up the releases with company needs with the purchasing order.
+        - Started transitioning  the final process on an electronic process .
+        - Able to clean out tissues that were on hold and establish a system to organize by aging of labeled grafts to organize by release.
+
+      - role: QA Batch Record Reviewer       
+      time: 2016 - 2016
+      company: Vivex Biomedical , Miami FL
+      # optional
+      company_logo: https://vivex.com/wp-content/uploads/2020/02/VIVEX_4C-1.png
+      details: |
+        - Accountable in reviewing batch records  specification of tissues to make sure they are safe to be transplanted
+        - Responsible in reviewing quality control testing results before releasing the final product.
+
+      - role: Processing Labeling Technician        
+      time: 2015 - 2015
+      company: Vivex Biomedical , Miami FL
+      # optional
+      company_logo: https://vivex.com/wp-content/uploads/2020/02/VIVEX_4C-1.png
+      details: |
+        - Responsible in labeling products according to specification to get the product ready for final release.
+        - Accountable in scanning release products to distribution
+
+      - role: Chemist Jr        
+      time: 2014 - 2015
+      company: Natures Products inc , Sunrise FL
+      # optional
+      company_logo: https://media.glassdoor.com/sqll/293245/nature-s-products-squarelogo-1442230819226.png
+      details: |
+        - Responsible in running the ICP-MS machine to analyze heavy metals in capsules, pills and powders.
+        - Analyzed protein content using a truspec protein analyzer in powders.
+        - Used the ICP and HPTLP machines to analyze identity of raw materials.
+        - Using titration analyzed vitamin C content in finish products.
+        - Updated the laboratory standard operation procedures to be current with the work
+
+      - role: Quality Control Technician I / II          
+      time: 2013 - 2014
+      company: Natures Products inc , Sunrise FL
+      # optional
+      company_logo: https://media.glassdoor.com/sqll/293245/nature-s-products-squarelogo-1442230819226.png
+      details: |
+        - Responsible in running vitamin C analysis using titration
+        - Responsible in running truspec protein analyzer in raw and final products.
+        - Responsible in training the incoming technicians.
+        - Responsible of doing routine maintenance on the water filters for the lab 
+        - Responsible in removing and scheduling chemical waste disposal from the laboratory. 
+
+      - role: Quality Inspector         
+      time: 2012 - 2013
+      company: Natures Products inc , Sunrise FL
+      # optional
+      company_logo: https://media.glassdoor.com/sqll/293245/nature-s-products-squarelogo-1442230819226.png
+      details: |
+        - Inspected incoming raw material of Gummies into the company to be in acceptable condition according to specification sheet
+        - Inspected packaging lines, verifying expiration date, counts and overall quality of the product that is being packaged
+        - Release and clear lines to run new products based on material at hand and cleanliness. 
+        - Assigned expiration to final release products and printed case pack labels. 
+        - Kept and received inventory for the label room. 
+        - Inspected production lines and checked products for thickness, hardness and color specification. 
+        - Reviewed batch records for completeness and accuracy. 
+        inspected and release incoming components by using AQL sampling.
+
+ 
+
+ 
+
+
+
+# Your project portfolio
 # projects:
 #     intro: >
 #       You can list your side projects or open source libraries in this
